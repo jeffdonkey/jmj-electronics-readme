@@ -56,3 +56,5 @@ Use local database.
 
 
 ## Changelog
+
+see ./jmj-electronics-readme/CHANGELOG.md
